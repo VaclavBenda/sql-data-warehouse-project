@@ -7,7 +7,7 @@ Script Purpose:
   within the database: 'bronze', 'silver', and 'gold'.
 
 WARNING:
-  Runniing this script will drop the entire 'DataWarehousue' database if it exists.
+  Running this script will drop the entire 'DataWarehousue' database if it exists.
 */
 
 USE master;
